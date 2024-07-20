@@ -6,7 +6,7 @@ import json
 from currency_converter import CurrencyConverter
 
 
-bot = telebot.TeleBot("6883554728:AAEBP5V4iVYdEcHPu2kVqb61YVR_9A0FNXI")
+bot = telebot.TeleBot("token")
 
 amount = 0
 
